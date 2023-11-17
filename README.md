@@ -45,6 +45,6 @@ Running the Application=> 1) Clone Repository Using git bash: git clone https://
                                                       // Other country details
                                                      },
                                                     // ...
-                                                 ]
+                                                 ] 
                                 }
 
